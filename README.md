@@ -5,7 +5,7 @@
 ## There are three chapter
 ### 1. Using Knolpy,Nltk,Numpy,Pandas,Matplotlib,OpenApi,Webcrawling 
 ### 2. Using Tableau
-### 3. Using PowerBI
+### 3. Using Power BI
 
 <br/>
 <br/>
